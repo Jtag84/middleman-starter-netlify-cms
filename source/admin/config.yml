@@ -1,5 +1,7 @@
 backend:
-  name: git-gateway
+  name: github #$git-gateway
+  repo: Jtag84/middleman-starter-netlify-cms
+  branch: master # Branch to update (optional; defaults to master)
 
 media_folder: source/images/uploads
 public_folder: /images/uploads
