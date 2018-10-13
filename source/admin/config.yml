@@ -66,6 +66,7 @@ collections:
       - file: data/settings/navigation.yml
         label: Navigation
         name: navigation
+        delete: false
         fields:
           - label: Title Bar
             widget: string
