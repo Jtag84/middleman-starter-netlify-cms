@@ -3,3 +3,4 @@ nav_items:
   - {label: 'Products', path: '/products/'}
   - {label: 'News', path: '/news'}
 
+title_bar: Test title bar

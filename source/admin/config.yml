@@ -65,6 +65,9 @@ collections:
         label: Navigation
         name: navigation
         fields:
+          - label: Title Bar
+            widget: string
+            name: title_bar
           - label: Navigation
             name: nav_items
             widget: list
