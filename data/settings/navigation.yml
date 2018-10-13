@@ -1,6 +1,8 @@
-nav_items: 
-  - {label: 'Home', path: '/'}
-  - {label: 'Products', path: '/products/'}
-  - {label: 'News', path: '/news'}
-
-title_bar: Test title bar
+title_bar: Test title bar 2
+nav_items:
+  - label: Home
+    path: /
+  - label: Products
+    path: /products/
+  - label: News
+    path: /news
