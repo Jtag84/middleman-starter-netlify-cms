@@ -4,6 +4,7 @@ gem 'middleman', '~> 4.2'
 gem "middleman-blog"
 gem 'middleman-autoprefixer'
 gem "middleman-livereload"
+gem "middleman-favicon-maker", "~> 4.1"
 
 gem "slim"
 gem "bootstrap-sass", require: false
